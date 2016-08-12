@@ -10,3 +10,9 @@ How would branches help?
 
 
 How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+  The result of merging two branches together is the combined history of both branches with each
+  of the versions. We represent it as two separate paths because it allows us to show all of
+  the iterations of each of the branches prior to the combination of them.
